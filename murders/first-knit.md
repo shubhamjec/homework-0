@@ -1,6 +1,6 @@
 Report on Gun Murders
 ================
-Shubham Dwivedi
+Shubham
 5/18/2020
 
 ## R Markdown

@@ -1,8 +1,8 @@
 ---
 title: "Report on Gun Murders"
-author: "Shubham"
+author: "ShubhamD"
 date: "5/18/2020"
-output: github_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
